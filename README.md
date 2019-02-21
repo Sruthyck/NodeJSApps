@@ -1,2 +1,2 @@
 # NodeJSApps
-Deploy the newly created Node.js applications
+Deploy the Node.js applications
